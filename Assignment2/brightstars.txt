@@ -1,0 +1,6 @@
+Sirius,-1.46
+Canopus,-0.74
+Rigil Kentaurus,-0.27
+Arcturus,-0.05
+Vega,0.03
+Capella,0.08

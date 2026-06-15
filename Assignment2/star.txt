@@ -1,0 +1,20 @@
+Sirius,-1.46
+Canopus,-0.74
+Rigil Kentaurus,-0.27
+Arcturus,-0.05
+Vega,0.03
+Capella,0.08
+Rigel,0.13
+Procyon,0.34
+Betelgeuse,0.42
+Achernar,0.45
+Hadar,0.61
+Altair,0.76
+Aldebaran,0.85
+Antares,1.05
+Pollux,1.14
+Fomalhaut,1.16
+Deneb,1.25
+Regulus,1.36
+Castor,1.58
+Polaris,1.97
